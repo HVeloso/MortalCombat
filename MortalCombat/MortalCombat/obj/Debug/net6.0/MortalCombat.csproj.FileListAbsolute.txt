@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\bin\Debug\net6.0\MortalCombat.exe
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\bin\Debug\net6.0\MortalCombat.deps.json
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\bin\Debug\net6.0\MortalCombat.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\bin\Debug\net6.0\MortalCombat.dll
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\bin\Debug\net6.0\MortalCombat.pdb
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.dll
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\refint\MortalCombat.dll
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.pdb
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\MortalCombat.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Estudo\C#\Códigos\MortalCombat\MortalCombat\MortalCombat\obj\Debug\net6.0\ref\MortalCombat.dll
